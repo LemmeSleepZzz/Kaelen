@@ -22,9 +22,6 @@
 - **Engaging Combat:** Souls-inspired combat mechanics, with stamina and strategy at the forefront.
 - **Dynamic Story Events:** Discover lore and face choices that impact your character's journey.
 
-## Demo
-![Kaelen in Action](screenshot.png)  
-_Example interactions and combat sequences in the Discord interface._
 
 ## Installation
 1. **Clone the repository:**
